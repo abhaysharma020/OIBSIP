@@ -40,15 +40,15 @@ How It Works
 
 A typical phishing attack follows a repeatable chain:
 
-1.	Reconnaissance — the attacker identifies a target organization and, for more advanced variants, specific individuals within it (via LinkedIn, company websites, or data breaches).
+1.	*Reconnaissance* — the attacker identifies a target organization and, for more advanced variants, specific individuals within it (via LinkedIn, company websites, or data breaches).
 
-2.	Lure creation — a message is crafted to impersonate a trusted sender (a bank, vendor, executive, or IT department) and to create urgency or fear.
+2.	*Lure creation* — a message is crafted to impersonate a trusted sender (a bank, vendor, executive, or IT department) and to create urgency or fear.
 
-3.	Delivery — the lure is sent via email, SMS, social media, or a phone call, often containing a malicious link, attachment, or request.
+3.	*Delivery* — the lure is sent via email, SMS, social media, or a phone call, often containing a malicious link, attachment, or request.
 
-4.	Exploitation — the victim clicks a link to a spoofed login page, opens a weaponized attachment, or complies with a fraudulent instruction (e.g., a wire transfer).
+4.	*Exploitation* — the victim clicks a link to a spoofed login page, opens a weaponized attachment, or complies with a fraudulent instruction (e.g., a wire transfer).
 
-5.	Follow-through — stolen credentials or footholds are used for account takeover, lateral movement, or further attacks against colleagues.
+5.	*Follow-through* — stolen credentials or footholds are used for account takeover, lateral movement, or further attacks against colleagues.
 
 ## Types of Phishing
 
