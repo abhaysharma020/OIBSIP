@@ -59,6 +59,7 @@ Figure 2: Allowing SSH traffic through the firewall
 A deny rule is added to block unencrypted HTTP traffic (port 80), forcing web access to use secure channels only:
 
 $ sudo ufw deny http
+
 <img width="781" height="520" alt="image" src="https://github.com/user-attachments/assets/3ff3e9c0-7031-49a2-9b86-b860d9e2d3eb" />
 
  Figure 3: Denying HTTP traffic through the firewall
@@ -68,6 +69,7 @@ $ sudo ufw deny http
 Finally, a verbose status check confirms the active configuration — logging level, default policies, and the individual allow/deny rules for both IPv4 and IPv6:
 
 $ sudo ufw status verbose
+
 <img width="781" height="520" alt="image" src="https://github.com/user-attachments/assets/b8fae339-c65f-4d3c-a3b6-957db7001d43" />
 
  Figure 4: Verifying firewall status, default policy, and rule set
